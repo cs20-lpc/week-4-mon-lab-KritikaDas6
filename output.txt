@@ -1,0 +1,21 @@
+Length of empty linked list: 0
+Length appended to empty linked list: 1
+Element 1: 67
+Trying to get element of postion 3 but only 1 elment in linked list error message: position does not exist, out of bounds
+Trying to get element of postion -1 but only 1 element in linked list error message: position does not exist, out of bounds
+Element 2: 911
+Element 2 that was replaced: 100
+Error: Index is out of Bounds
+Error: Index is out of Bounds
+Length before new append: 3
+Length after new append: 4
+all numbers in linked list, printed using overloaded operator: 19 --> 67 --> 100 --> 130
+
+After clearing: all numbers in linked list, printed using overloaded operator: List is empty, no elements to display.
+
+The list is empty.
+Element 3 from the string linked list: 
+The execution and refrencing the correct adresses/elements in the node are harder :/ 
+
+ String linked list, printed using overloaded operator: 
+I am working. --> On Linked Lists! --> The logic is fun. --> The execution and refrencing the correct adresses/elements in the node are harder :/ 
